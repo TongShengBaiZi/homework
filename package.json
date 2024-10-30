@@ -7,6 +7,7 @@
   "license": "ISC",
   "keywords": [],
   "main": "index.js",
+  "home":"https://homework-alpha-dun.vercel.app/",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
@@ -50,5 +51,5 @@
     "cz-customizable": {
       "config": ".cz-config.cjs"
     }
-}
+  }
 }
