@@ -17,8 +17,8 @@ const rollupOptions = {
 export default defineConfig({
   test: {
     coverage: {
-      provider: "istanbul", // or 'v8',
-      reporter: ["text", "json", "html"],
+      provider: 'istanbul', // or 'v8',
+      reporter: ['text', 'json', 'html'],
       // include: ['src/**/*.ts', 'src/**/*.tsx'], // 指定你要测试的文件路径
       // exclude: ['src/*.ts', 'src/utils/**'],// 指定你要忽略的文件路径
     },
