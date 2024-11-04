@@ -9,6 +9,9 @@
  <p align="center">
  <img src="https://img.shields.io/badge/build-passing-brightgreen?logo=%23000000
  ">
+ <a href="https://codecov.io/gh/TongShengBaiZi/homework" >
+ <img src="https://codecov.io/gh/TongShengBaiZi/homework/graph/badge.svg?token=9MCHL2YQQZ"/>
+ </a>
 
 ## Feature
 - 基于Vue框架

@@ -2,7 +2,7 @@ name: PublishToNpm
 
 on:
   push:
-    branches: [publish-alwayxx-ui-vite]
+    branches: [publish-Hutao-ui-vite]
 
 jobs:
   publish:
